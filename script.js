@@ -1,16 +1,16 @@
 const projects = [
   {
-    title: "✨ Portfolio Page",
-    description: "My very first project — clean, elegant, and simple.",
+    title: "✨ Portfolio Page ✨",
+    description: "My very first project- clean, elegant, and simple.",
     link: "https://jasnoor-kaur1501.github.io/My-Portfolio/"
   },
   {
-    title: "🩷 Productivity Room",
+    title: "🩷 Productivity Room 🩷",
     description: "A pastel-themed productivity app with affirmations and a timer.",
-    link: "https://jasnoor-kaur1501.github.io/Productivity-Room/"
+    link: "https://jasnoor-kaur1501.github.io/ProductivityRoom/"
   },
   {
-    title: "💡 Coming Soon",
+    title: "Coming Soon!",
     description: "More creative projects and ideas on the way!",
     link: "#"
   }
