@@ -163,6 +163,17 @@ footer a {
     transform: translateY(-16px) scale(1.1);
   }
   100% {
+    footer a {
+  color: #1a2b4c;
+  text-decoration: underline;
+  transition: color 0.3s ease, text-shadow 0.3s ease;
+}
+
+footer a:hover {
+  color: #b3d8ff;
+  text-shadow: 0 0 8px rgba(179, 216, 255, 0.7);
+}
+
     opacity: 0;
     transform: translateY(-20px) scale(0.8);
   }
